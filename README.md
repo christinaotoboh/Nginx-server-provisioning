@@ -39,6 +39,8 @@ All steps are automated; no manual installation or configuration is needed.
 If you update the HTML manually after running the script, the changes appear immediately.
 Re-running the script will overwrite the HTML and reconfigure Nginx.
 
+## Evidence of website running on server
+
 ![Nginx Server](https://raw.githubusercontent.com/christinaotoboh/Nginx-server-provisioning/main/Assignment%202.png)
 
 

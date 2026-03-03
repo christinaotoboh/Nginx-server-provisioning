@@ -40,4 +40,4 @@ If you update the HTML manually after running the script, the changes appear imm
 Re-running the script will overwrite the HTML and reconfigure Nginx.
 
 
-![Alt text](./Assignment 2.png)
+

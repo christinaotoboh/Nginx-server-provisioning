@@ -1,12 +1,5 @@
 #!/bin/bash
 
-echo "Checking if Nginx is running on system"
-if systemctl cat nginx &> /dev/null; then
-    echo "Service is installed."
-else
-    echo "Service is not installed."
-fi
-
 echo "Updating system and installing nginx"
 sudo apt update
 sudo apt install nginx -y

@@ -38,3 +38,6 @@ The goal of this assignment is to demonstrate the ability to:
 All steps are automated; no manual installation or configuration is needed.
 If you update the HTML manually after running the script, the changes appear immediately.
 Re-running the script will overwrite the HTML and reconfigure Nginx.
+
+
+![Alt text](./Assignment 2.png)

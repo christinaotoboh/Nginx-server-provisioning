@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1772569954,,"wq"
+|2,0,1772570151,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,40 +25,64 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/deploy.sh
-|4,48,2,0,1772569954,"~/deploy.sh"
-'1  10  6  ~/deploy.sh
-|4,49,10,6,1772568712,"~/deploy.sh"
-'2  17  6  ~/deploy.sh
-|4,50,17,6,1772568712,"~/deploy.sh"
-'3  3  42  ~/deploy.sh
-|4,51,3,42,1772568028,"~/deploy.sh"
+'0  5  0  ~/.gitignore
+|4,48,5,0,1772570151,"~/.gitignore"
+'1  2  0  ~/deploy.sh
+|4,49,2,0,1772569954,"~/deploy.sh"
+'2  10  6  ~/deploy.sh
+|4,50,10,6,1772568712,"~/deploy.sh"
+'3  17  6  ~/deploy.sh
+|4,51,17,6,1772568712,"~/deploy.sh"
 '4  3  42  ~/deploy.sh
 |4,52,3,42,1772568028,"~/deploy.sh"
-'5  10  42  ~/deploy.sh
-|4,53,10,42,1772568028,"~/deploy.sh"
+'5  3  42  ~/deploy.sh
+|4,53,3,42,1772568028,"~/deploy.sh"
 '6  10  42  ~/deploy.sh
 |4,54,10,42,1772568028,"~/deploy.sh"
-'7  82  63  ~/deploy.sh
-|4,55,82,63,1772566978,"~/deploy.sh"
-'8  78  153  ~/deploy.sh
-|4,56,78,153,1772566978,"~/deploy.sh"
-'9  26  63  ~/deploy.sh
-|4,57,26,63,1772566978,"~/deploy.sh"
+'7  10  42  ~/deploy.sh
+|4,55,10,42,1772568028,"~/deploy.sh"
+'8  82  63  ~/deploy.sh
+|4,56,82,63,1772566978,"~/deploy.sh"
+'9  78  153  ~/deploy.sh
+|4,57,78,153,1772566978,"~/deploy.sh"
 
 # Jumplist (newest first):
+-'  5  0  ~/.gitignore
+|4,39,5,0,1772570151,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1772570080,"~/.gitignore"
+-'  2  0  ~/deploy.sh
+|4,39,2,0,1772569954,"~/deploy.sh"
 -'  2  0  ~/deploy.sh
 |4,39,2,0,1772569954,"~/deploy.sh"
 -'  10  6  ~/deploy.sh
 |4,39,10,6,1772569931,"~/deploy.sh"
+-'  10  6  ~/deploy.sh
+|4,39,10,6,1772569931,"~/deploy.sh"
+-'  17  6  ~/deploy.sh
+|4,39,17,6,1772568712,"~/deploy.sh"
 -'  17  6  ~/deploy.sh
 |4,39,17,6,1772568712,"~/deploy.sh"
 -'  3  42  ~/deploy.sh
 |4,39,3,42,1772568356,"~/deploy.sh"
 -'  10  42  ~/deploy.sh
 |4,39,10,42,1772568356,"~/deploy.sh"
+-'  3  42  ~/deploy.sh
+|4,39,3,42,1772568356,"~/deploy.sh"
+-'  10  42  ~/deploy.sh
+|4,39,10,42,1772568356,"~/deploy.sh"
 -'  10  42  ~/deploy.sh
 |4,39,10,42,1772568028,"~/deploy.sh"
+-'  10  42  ~/deploy.sh
+|4,39,10,42,1772568028,"~/deploy.sh"
+-'  82  63  ~/deploy.sh
+|4,39,82,63,1772567924,"~/deploy.sh"
+-'  26  63  ~/deploy.sh
+|4,39,26,63,1772567924,"~/deploy.sh"
+-'  89  63  ~/deploy.sh
+|4,39,89,63,1772567924,"~/deploy.sh"
+-'  33  63  ~/deploy.sh
+|4,39,33,63,1772567924,"~/deploy.sh"
 -'  82  63  ~/deploy.sh
 |4,39,82,63,1772567924,"~/deploy.sh"
 -'  26  63  ~/deploy.sh
@@ -75,6 +99,22 @@
 |4,39,85,153,1772566978,"~/deploy.sh"
 -'  26  63  ~/deploy.sh
 |4,39,26,63,1772566978,"~/deploy.sh"
+-'  78  153  ~/deploy.sh
+|4,39,78,153,1772566978,"~/deploy.sh"
+-'  19  63  ~/deploy.sh
+|4,39,19,63,1772566978,"~/deploy.sh"
+-'  85  153  ~/deploy.sh
+|4,39,85,153,1772566978,"~/deploy.sh"
+-'  26  63  ~/deploy.sh
+|4,39,26,63,1772566978,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1772566937,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1772566937,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1772566937,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1772566937,"~/deploy.sh"
 -'  1  0  ~/deploy.sh
 |4,39,1,0,1772566937,"~/deploy.sh"
 -'  1  0  ~/deploy.sh
@@ -85,6 +125,13 @@
 |4,39,1,0,1772566937,"~/deploy.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1772570150	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	5	0
 
 > ~/deploy.sh
 	*	1772569952	0

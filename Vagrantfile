@@ -138,7 +138,7 @@ Vagrant.configure("2") do |config|
                     Nginx and serving a web page on it using Bash vagrantfile.
                 </p>
                 <p>
-                    The server was configured, installed, and deployed using a vagrantfile.
+                    The server was configured, installed, and deployed using a vagrant.
                 </p>
                 <div class="footer">
                     She Code Africa DevOps Track  Cohort 3
